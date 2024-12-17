@@ -1,0 +1,18 @@
+.todo-list {
+    padding: 12px;
+}
+.todo-list__item {
+    padding: 12px;
+    background-color: #e2e2e2;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
+.form {
+    display: flex;
+}
+.form__field {
+    padding: 0 10px;
+}
+label {
+    padding: 0 10px;
+}
